@@ -2,6 +2,8 @@
 
 A practical framework for connecting product delivery, strategy alignment, and continuous improvement into a single operating model.
 
+![Product Operating System](assets/diagram.png)
+
 ---
 
 ## 🧠 Why this exists
