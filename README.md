@@ -1,24 +1,48 @@
 # Product Operating System
 
-A practical framework connecting product delivery, strategy alignment, and continuous improvement into a single operating model.
+A practical framework for connecting product delivery, strategy alignment, and continuous improvement into a single operating model.
+
+---
+
+## 🧠 Why this exists
+
+In many organizations, product teams, strategy, and delivery operate as separate systems:
+
+- Product teams focus on building features  
+- Strategy is defined but not connected to execution  
+- Improvement efforts are reactive and inconsistent  
+
+This creates misalignment and limits outcomes.
+
+This repository introduces a **Product Operating System (POS)** that unifies these into one system.
+
+---
+
+## 🧩 The Model
+
+The Product Operating System integrates:
+
+- Product Value Creation (Discovery → Delivery → Outcomes)  
+- Strategy Alignment (Objectives → Priorities → Backlog)  
+- Continuous Improvement (Assessment → Backlog → Delivery)  
+- Leadership & Enablement  
+
+📌 See: `assets/diagram.png`
 
 ---
 
 ## 📘 Documents
 
-- Playbook: docs/playbook.pdf
-- Case Study: docs/case-study.pdf
+👉 Start here:
 
----
+- **Summary (1-page)**  
+  docs/1-page-summary.md  
 
-## 🧠 Overview
+- **Playbook (full model)**  
+  docs/playbook.pdf  
 
-This model integrates four core components:
-
-- Product Value Creation (Discovery → Delivery → Outcomes)
-- Strategy Alignment (Objectives → Priorities → Execution)
-- Continuous Improvement (Assessment → Backlog → Delivery)
-- Leadership & Enablement
+- **Case Study (application)**  
+  docs/case-study.pdf  
 
 ---
 
@@ -26,24 +50,26 @@ This model integrates four core components:
 
 > All sources of work feed a single prioritized backlog.
 
-This ensures alignment between:
-- Product development  
-- Strategic objectives  
-- Improvement initiatives  
+This aligns:
+- Product initiatives  
+- Strategic priorities  
+- Improvement efforts  
+
+Into one system of execution.
 
 ---
 
-## 📊 Why this matters
+## 📊 What this demonstrates
 
-Organizations often struggle with disconnected systems across product, strategy, and execution.
+This project shows my approach to:
 
-This framework provides a simple way to:
-- Align strategy with delivery  
-- Focus on measurable outcomes  
-- Introduce structured continuous improvement  
+- Designing operating models  
+- Connecting strategy and execution  
+- Applying structured continuous improvement  
+- Synthesizing complex frameworks into practical systems  
 
 ---
 
-## 📌 About
+## 🔄 Version
 
-This project demonstrates how I approach system design by synthesizing product, strategy, and delivery practices into a cohesive operating model.
+Version 1.0 — evolving based on application and feedback
